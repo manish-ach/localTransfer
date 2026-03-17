@@ -1,6 +1,8 @@
 # fserver
 
-A minimal file upload server for receiving files from your phone over WiFi.
+A minimal file upload server for receiving files from your phone over WiFi. 
+
+Just need to run the server on your laptop, and you can access it without downloading anything on mobile through browser
 
 <img width="709" height="688" alt="image" src="https://github.com/user-attachments/assets/a5dcb764-4197-42bb-951f-7c5608b2a746" />
 
